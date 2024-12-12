@@ -1,0 +1,16 @@
+/* styles/ItemsList.module.css */
+
+.itemsContainer {
+    margin-bottom: 2rem;
+  }
+  
+  .itemsList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+  }
+  
